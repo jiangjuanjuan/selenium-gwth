@@ -1,0 +1,22 @@
+1558303210628	geckodriver	INFO	geckodriver 0.18.0
+1558303210712	geckodriver	INFO	Listening on 127.0.0.1:53994
+1558303212729	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+1558303217548	Marionette	INFO	Listening on port 54000
+1558303218177	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1558308829983	geckodriver	INFO	geckodriver 0.18.0
+1558308830004	geckodriver	INFO	Listening on 127.0.0.1:55684
+1558308832341	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\JJJ\AppData\Local\openvr\openvrpaths.vrpath
+1558308837480	Marionette	INFO	Listening on port 55690
+1558308837648	Marionette	WARN	TLS certificate errors will be ignored for this session
